@@ -1,0 +1,18 @@
+---
+title: "Models"
+author: "Aashna"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: FALSE
+library(tidyverse)
+```
+
+I have gathered and analyzed polling data indicating voter preferences for Joe Biden in the 2024 election, while considering potential biases in the data that could affect the accuracy of determining the proportion of votes for Biden.
+
+
+
